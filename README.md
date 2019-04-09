@@ -1,1 +1,2 @@
 # PracticaVisualStudio
+#creacion del repositorio
